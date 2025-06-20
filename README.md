@@ -3,8 +3,8 @@
 Backup automatico del sistema AI-CORE v15.0
 
 ## 📊 Ultimo Backup
-- **Data**: 2025-06-19
-- **Ora**: 00:00:34
+- **Data**: 2025-06-20
+- **Ora**: 12:00:39
 - **File processati**: 13974
 - **Status**: ✅ completed
 
